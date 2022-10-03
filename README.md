@@ -62,7 +62,12 @@ roslaunch ros_tcp_endpoint endpoint.launch
 
 ### 2. PC
 
-Open the Unity project.
+Open the Unity project. And open the scene file. 
+
+Two scenes can be selected.
+
+- MiniPupperCmdVelPose.unity        :    Example for sending CmdVel Message.
+- MiniPupperJointTrajectory.unity   :    Example for sending JointTrajectory Message. with IK foot positioning.
 
 Setup the ROS network description.
 
