@@ -35,6 +35,7 @@ https://github.com/Unity-Technologies/ROS-TCP-Endpoint
 ### 2. PC
 - Windows (10 or later)
 - Unity 3D (I used 2021.3.2f1 version.)
+- git software (https://git-scm.com/downloads) for importing Unity asset.
 
 - Clone this repository, and Open the project. The first time, some assets downloads would be performed.
 
