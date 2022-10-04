@@ -12,9 +12,9 @@ This repository is a tutorial for connecting Unity and ROS.
 
 ![gif](https://github.com/devemin/Unity-ROS-MiniPupper-Tutorial/blob/main/media/overview.gif)
 
-![image](https://github.com/devemin/Unity-ROS-MiniPupper-Tutorial/blob/main/media/pic1.png)
+![image1](https://github.com/devemin/Unity-ROS-MiniPupper-Tutorial/blob/main/media/pic1.png)
 
-![image](https://github.com/devemin/Unity-ROS-MiniPupper-Tutorial/blob/main/media/pic2.png)
+![image2](https://github.com/devemin/Unity-ROS-MiniPupper-Tutorial/blob/main/media/pic2.png)
 
 
 # Environment
