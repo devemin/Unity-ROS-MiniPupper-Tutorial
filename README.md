@@ -135,8 +135,8 @@ https://twitter.com/devemin
 
 https://github.com/Unity-Technologies/Unity-Robotics-Hub/tree/main/tutorials/ros_unity_integration
 
-# Liscence
+# Licence
 
-MIT Liscense
+MIT License
 
 
