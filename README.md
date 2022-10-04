@@ -37,9 +37,10 @@ sudo apt update
 
 cd ~/catkin_ws/src
 git clone https://github.com/Unity-Technologies/ROS-TCP-Endpoint.git
+cd ./ROS-TCP-Endpoint
+pip3 install -r requirements.txt
 cd ../
 catkin_make
-source devel/setup.bash
 ```
 
 
