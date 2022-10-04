@@ -52,7 +52,7 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8 0
 
 ### 2. PC
 - Windows (10 or later)
-- Unity 3D (I used 2021.3.2f1 version.)
+- Unity 3D (I used version 2021)
 - git software (https://git-scm.com/downloads) for importing Unity asset.
 
 - Clone this repository, and Open the project. The first time, some assets downloads would be performed.
