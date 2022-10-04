@@ -30,6 +30,8 @@ https://drive.google.com/drive/folders/1RXu8dGXx3duYmF6jz4DYGml95TujSjsq
 - Ubuntu 20.04
 - ROS Noetic
 
+ID: ubuntu / pass: mangdang
+
 - Clone the ROS-TCP-Endpoint repository.
 
 ```
@@ -62,22 +64,15 @@ These client have to connect the same network.
 
 ### 1. Mini Pupper
 
-Open the terminal, Enter this. (No.1 tab)
+Open the terminal, Enter this.
 
 ```
 # check your IP address.
 ifconfig
 
-cd catkin_ws
+cd ~/catkin_ws
 source devel/setup.bash
-roscore
-```
-
-And Next terminarl, Enter this. (No.2 tab) (You can open new terminal with [Ctrl-T] key)
-
-```
-source devel/setup.bash
-roslaunch ros_tcp_endpoint endpoint.launch
+roslaunch ros_tcp_endpoint endpoint.launch     # with roscore
 ```
 
 ### 2. PC
