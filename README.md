@@ -10,6 +10,8 @@ Unity 3D Engine can also create <b>Windows / MacOS / Android / iOS Apps</b> and 
 This repository is a tutorial for connecting Unity and ROS.
 
 
+![gif](https://github.com/devemin/Unity-ROS-MiniPupper-Tutorial/blob/main/media/overview.gif)
+
 ![image](https://user-images.githubusercontent.com/52738228/193609078-d6cbcb2f-be8e-4a07-9053-33f852b9cbbf.png)
 
 ![image](https://user-images.githubusercontent.com/52738228/193608913-352e2ad7-def7-4a71-a62b-c3bb10e45ce4.png)
