@@ -21,7 +21,7 @@ This repository contain a tutorial for connecting Unity and ROS.
 
 You need a Mini Pupper and PC.
 
-### 1. Mini Pupper
+## 1. Mini Pupper
 
 (SD Card image: (64bit)v1.0.0.20220219.MiniPupper_ROS&OpenCV_Ubuntu20.04.03.img.zip )
 
@@ -50,7 +50,7 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8 0
 
 
 
-### 2. PC
+## 2. PC
 - Windows (10 or later)
 - Unity 3D (I used version 2021)
 - git software (https://git-scm.com/downloads) for importing Unity asset.
@@ -62,7 +62,7 @@ These client have to connect the same network.
 
 # Usage
 
-### 1. Mini Pupper
+## 1. Mini Pupper
 
 Open the terminal, Enter this. (Tab No.1)
 
@@ -92,25 +92,28 @@ roslaunch mini_pupper bringup.launch
 
 
 
-### 2. PC
+## 2. PC
 
 Open the Unity project. And open the scene file. 
 
 Two scenes can be selected.
 
-#### MiniPupperCmdVelPose.unity        :    Example for CmdVel message.
+### Assets/Scenes/MiniPupperCmdVelPose.unity        :    Example for CmdVel message.
 
-This example shows two virtual joystick.
-When connected to ROS, you can move Mini Pupper with CmdVel messages.
+* This example shows two virtual joystick.
 
-#### MiniPupperJointTrajectory.unity   :    Example for JointTrajectory message.  with IK foot positioning.
+* When connected to ROS, you can move Mini Pupper with CmdVel messages.
 
-This example shows 4 foot position box and a body position box.
-When connected to ROS, you can move Mini Pupper with JointTrajectory messages.
-And the Leg move with IK (forward to foot position box.)
+### Assets/Scenes/MiniPupperJointTrajectory.unity   :    Example for JointTrajectory message.  with IK foot positioning.
+
+* This example shows 4 foot position box and a body position box.
+
+* When connected to ROS, you can move Mini Pupper with JointTrajectory messages.
+
+* And the Leg move with IK (forward to foot position box.)
 
 
-#### Setup the ROS network description.
+### Setup the ROS network description.
 
 Enter the Mini Pupper's IP address in the "ROS IP Address" fields.
 
