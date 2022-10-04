@@ -7,7 +7,7 @@ You can play your Mini Pupper with <b>Unity 3D Engine and ROS</b>!
 
 Unity 3D Engine can also create <b>Windows / MacOS / Android / iOS Apps</b> and so on.
 
-This repository is a tutorial for connecting Unity and ROS.
+This repository contain a tutorial for connecting Unity and ROS.
 
 
 ![gif](https://github.com/devemin/Unity-ROS-MiniPupper-Tutorial/blob/main/media/overview.gif)
