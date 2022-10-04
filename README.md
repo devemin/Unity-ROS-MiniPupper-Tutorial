@@ -32,7 +32,17 @@ https://drive.google.com/drive/folders/1RXu8dGXx3duYmF6jz4DYGml95TujSjsq
 
 - Clone the ROS-TCP-Endpoint repository.
 
-https://github.com/Unity-Technologies/ROS-TCP-Endpoint
+```
+sudo apt update
+
+cd ~/catkin_ws/src
+git clone https://github.com/Unity-Technologies/ROS-TCP-Endpoint.git
+cd ../
+catkin_make
+source devel/setup.bash
+```
+
+
 
 ### 2. PC
 - Windows (10 or later)
@@ -51,6 +61,9 @@ These client have to connect the same network.
 Open the terminal, Enter this. (No.1 tab)
 
 ```
+ifconfig
+# check your IP address.
+
 cd catkin_ws
 source devel/setup.bash
 roscore
