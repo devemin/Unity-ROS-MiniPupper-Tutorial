@@ -98,10 +98,19 @@ Open the Unity project. And open the scene file.
 
 Two scenes can be selected.
 
-- MiniPupperCmdVelPose.unity        :    Example for CmdVel Message.
-- MiniPupperJointTrajectory.unity   :    Example for JointTrajectory Message.  with IK foot positioning.
+#### MiniPupperCmdVelPose.unity        :    Example for CmdVel message.
 
-Setup the ROS network description.
+This example shows two virtual joystick.
+When connected to ROS, you can move Mini Pupper with CmdVel messages.
+
+#### MiniPupperJointTrajectory.unity   :    Example for JointTrajectory message.  with IK foot positioning.
+
+This example shows 4 foot position box and a body position box.
+When connected to ROS, you can move Mini Pupper with JointTrajectory messages.
+And the Leg move with IK (forward to foot position box.)
+
+
+#### Setup the ROS network description.
 
 Enter the Mini Pupper's IP address in the "ROS IP Address" fields.
 
