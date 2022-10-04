@@ -64,7 +64,7 @@ These client have to connect the same network.
 
 ### 1. Mini Pupper
 
-Open the terminal, Enter this.
+Open the terminal, Enter this. (Tab 1)
 
 ```
 # check your IP address.
@@ -77,6 +77,18 @@ roslaunch ros_tcp_endpoint endpoint.launch     # with roscore
 
 ![image](https://user-images.githubusercontent.com/52738228/193747296-7212c0dd-ca4c-4de0-b39f-cd3bc9db8c87.png)
 
+And open new terminal (Ctrl-T key)
+
+```
+source devel/setup.bash
+
+# If you try CmdVel sample project,
+roslaunch servo_interface servo_interface.launch
+
+# Or, If you try JointTrajectory sample project,
+roslaunch mini_pupper bringup.launch
+```
+
 
 
 
@@ -86,8 +98,8 @@ Open the Unity project. And open the scene file.
 
 Two scenes can be selected.
 
-- MiniPupperCmdVelPose.unity        :    Example for sending CmdVel Message.
-- MiniPupperJointTrajectory.unity   :    Example for sending JointTrajectory Message. with IK foot positioning.
+- MiniPupperCmdVelPose.unity        :    Example for CmdVel Message.
+- MiniPupperJointTrajectory.unity   :    Example for JointTrajectory Message.  with IK foot positioning.
 
 Setup the ROS network description.
 
