@@ -41,6 +41,9 @@ cd ./ROS-TCP-Endpoint
 pip3 install -r requirements.txt
 cd ../
 catkin_make
+
+# for changing default python version 3
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8 0
 ```
 
 
@@ -62,8 +65,8 @@ These client have to connect the same network.
 Open the terminal, Enter this. (No.1 tab)
 
 ```
-ifconfig
 # check your IP address.
+ifconfig
 
 cd catkin_ws
 source devel/setup.bash
