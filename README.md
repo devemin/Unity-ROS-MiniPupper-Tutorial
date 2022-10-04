@@ -64,7 +64,7 @@ These client have to connect the same network.
 
 ### 1. Mini Pupper
 
-Open the terminal, Enter this. (Tab 1)
+Open the terminal, Enter this. (Tab No.1)
 
 ```
 # check your IP address.
@@ -77,7 +77,7 @@ roslaunch ros_tcp_endpoint endpoint.launch     # with roscore
 
 ![image](https://user-images.githubusercontent.com/52738228/193747296-7212c0dd-ca4c-4de0-b39f-cd3bc9db8c87.png)
 
-And open new terminal (Ctrl-T key)
+And open new terminal  (Tab No.2) (Ctrl-T key)
 
 ```
 source devel/setup.bash
