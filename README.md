@@ -1,6 +1,20 @@
 # Unity-ROS-MiniPupper-Tutorial
 Unity x ROS1 x Mini Pupper Tutorial.
 
+<br>
+
+### (Important!) - You will need to install Unity 3D Software beforehand!
+### 'Unity Hub' is recommended.
+
+<br>
+
+https://unity3d.com/get-unity/download
+
+
+<br>
+<br>
+
+
 # Overview
 
 You can play your Mini Pupper with <b>Unity 3D Engine and ROS</b>!
