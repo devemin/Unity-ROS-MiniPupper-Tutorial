@@ -71,6 +71,8 @@ Windows (10 or later)
 - Install git software (https://git-scm.com/downloads) for importing Unity asset.
 - Clone this repository, and Open the project. The first time, some assets downloads would be performed.
 
+- And If you want to build Android App, Android build Module (in Unity) / Android SDK is required.
+
 ### Network
 These client have to connect the same network.
 
