@@ -65,18 +65,33 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8 0
 
 
 ## 2. PC
+
 Windows (10 or later)
-
-- Install Unity 3D (I used version 2021) <b> You will need to install and Register Unity 3D Software beforehand. 'Unity Hub' is recommended.</b>
-- Install git software (https://git-scm.com/downloads) for importing Unity asset.
-- Clone this repository, and Open the project. The first time, some assets downloads would be performed.
-
-- And If you want to build Android App, Android build Module (in Unity) / Android SDK is required.
+or Ubuntu (I tried Ubuntu20.04)
 
 <br>
 
-(If you use Unity on Ubuntu, see this URL  https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux)
+### Please install these in each PC beforehand.
 
+<br>
+
+- Install **Unity 3D** (I used version 2021) <b> You will need to install and Register Unity 3D Software beforehand. 'Unity Hub' is recommended.</b>
+- Install **git** software (https://git-scm.com/downloads) for importing Unity asset.
+- Clone **this repository**, and Open the project. The first time, some assets downloads would be performed.
+
+<br>
+- (Optional) If you want to build Android App, Android build Module (via Unity Hub Setting) / Android SDK is required.
+
+<br>
+
+- Unity 3D Software
+> Windows - (https://unity3d.com/get-unity/download)
+
+> Ubuntu - (https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux)
+
+
+
+<br>
 <br>
 
 ### Network
