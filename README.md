@@ -73,6 +73,12 @@ Windows (10 or later)
 
 - And If you want to build Android App, Android build Module (in Unity) / Android SDK is required.
 
+<br>
+
+(If you use Unity on Ubuntu, see this URL  https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux)
+
+<br>
+
 ### Network
 These client have to connect the same network.
 
