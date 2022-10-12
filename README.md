@@ -107,6 +107,9 @@ source devel/setup.bash
 # If you try CmdVel sample project,
 roslaunch servo_interface servo_interface.launch
 
+# (If use mini_pupper_ros - ros1 branch (updated Sep, 2022),  )
+# roslaunch mini_pupper_control servo_interface.launch
+
 # Or, If you try JointTrajectory sample project,
 roslaunch mini_pupper bringup.launch
 ```
