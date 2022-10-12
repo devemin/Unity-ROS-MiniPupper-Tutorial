@@ -31,7 +31,7 @@ This repository contain a tutorial for connecting Unity and ROS.
 ![image2](https://github.com/devemin/Unity-ROS-MiniPupper-Tutorial/blob/main/media/pic2.png)
 
 
-# Environment
+# Preparations
 
 You need a Mini Pupper and PC.
 
@@ -66,7 +66,7 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8 0
 
 ## 2. PC
 - Windows (10 or later)
-- Unity 3D (I used version 2021)
+- Unity 3D (I used version 2021) <b> You will need to install and Register Unity 3D Software beforehand. 'Unity Hub' is recommended.</b>
 - git software (https://git-scm.com/downloads) for importing Unity asset.
 
 - Clone this repository, and Open the project. The first time, some assets downloads would be performed.
