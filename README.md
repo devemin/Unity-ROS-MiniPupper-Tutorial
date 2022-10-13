@@ -3,7 +3,7 @@ Unity x ROS1 x Mini Pupper Tutorial.
 
 <br>
 
-### (Important!) - You will need to install and Register Unity 3D Software beforehand!
+### (Important!) - You will need to install and Register Unity 3D Software beforehand! (You can use Free version.) 
 ### 'Unity Hub' is recommended.
 
 <br>
