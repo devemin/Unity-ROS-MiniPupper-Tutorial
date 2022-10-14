@@ -1,6 +1,20 @@
 # Unity-ROS-MiniPupper-Tutorial
 Unity x ROS1 x Mini Pupper Tutorial.
 
+<br>
+
+### (Important!) - You will need to install and Register Unity 3D Software beforehand! (You can use Free version.) 
+### 'Unity Hub' is recommended.
+
+<br>
+
+https://unity3d.com/get-unity/download
+
+
+<br>
+<br>
+
+
 # Overview
 
 You can play your Mini Pupper with <b>Unity 3D Engine and ROS</b>!
@@ -17,7 +31,7 @@ This repository contain a tutorial for connecting Unity and ROS.
 ![image2](https://github.com/devemin/Unity-ROS-MiniPupper-Tutorial/blob/main/media/pic2.png)
 
 
-# Environment
+# Preparations
 
 You need a Mini Pupper and PC.
 
@@ -51,11 +65,34 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8 0
 
 
 ## 2. PC
-- Windows (10 or later)
-- Unity 3D (I used version 2021)
-- git software (https://git-scm.com/downloads) for importing Unity asset.
 
-- Clone this repository, and Open the project. The first time, some assets downloads would be performed.
+Windows (10 or later)
+or Ubuntu (I tried Ubuntu20.04)
+
+<br>
+
+### Please install these in each PC beforehand.
+
+<br>
+
+- Install **Unity 3D** (I used version 2021) <b> You will need to install and Register Unity 3D Software beforehand. 'Unity Hub' is recommended.</b>
+- Install **git** software (https://git-scm.com/downloads) for importing Unity asset.
+- Clone **this repository**, and Open the project. The first time, some assets downloads would be performed.
+
+<br>
+- (Optional) If you want to build Android App, Android build Module (via Unity Hub Setting) / Android SDK is required.
+
+<br>
+
+- Unity 3D Software
+> Windows - (https://unity3d.com/get-unity/download)
+
+> Ubuntu - (https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux)
+
+
+
+<br>
+<br>
 
 ### Network
 These client have to connect the same network.
@@ -84,6 +121,9 @@ source devel/setup.bash
 
 # If you try CmdVel sample project,
 roslaunch servo_interface servo_interface.launch
+
+# (If use mini_pupper_ros - ros1 branch (updated Sep, 2022),  )
+# roslaunch mini_pupper_control servo_interface.launch
 
 # Or, If you try JointTrajectory sample project,
 roslaunch mini_pupper bringup.launch
