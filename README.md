@@ -139,6 +139,8 @@ roslaunch mini_pupper bringup.launch
 
 Open the Unity project. And open the scene file. 
 
+(Additional packages will start to download automatically.)
+
 Two scenes can be selected.
 
 ### Assets/Scenes/MiniPupperCmdVelPose.unity        :    Example for CmdVel message.
