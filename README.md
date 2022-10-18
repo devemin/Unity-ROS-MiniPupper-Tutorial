@@ -14,6 +14,17 @@ https://unity3d.com/get-unity/download
 <br>
 <br>
 
+<a href="https://docs.google.com/presentation/d/1736hNfw3OuuTrJss64tAnSHHMgF4QagF/edit?usp=sharing&ouid=116616277109116849272&rtpof=true&sd=true">
+
+![image](https://user-images.githubusercontent.com/52738228/196514593-f43436f3-dbde-45b7-ad7b-f76636f60dd0.png)
+
+Slide - Use Unity 3D ROS Engine to control mini pupper - 
+
+</a>
+
+<br>
+<br>
+
 
 # Overview
 
