@@ -37,7 +37,7 @@ You need a Mini Pupper and PC.
 
 ## 1. Mini Pupper
 
-(SD Card image: (64bit)v1.0.0.20220219.MiniPupper_ROS&OpenCV_Ubuntu20.04.03.img.zip )
+(SD Card image: 20221013_minipupper_roscon2022_trim.img.xz )
 
 https://drive.google.com/drive/folders/1RXu8dGXx3duYmF6jz4DYGml95TujSjsq
 
