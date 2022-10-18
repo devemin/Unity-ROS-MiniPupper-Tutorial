@@ -47,7 +47,7 @@ https://drive.google.com/drive/folders/1RXu8dGXx3duYmF6jz4DYGml95TujSjsq
 ID: ubuntu / pass: mangdang
 
 - Clone the ROS-TCP-Endpoint repository.
-(New image (20221013_minipupper_roscon2022_trim.img.xz), not need this.)
+- (New image (20221013_minipupper_roscon2022_trim.img.xz), not need this.)
 
 
 ```
