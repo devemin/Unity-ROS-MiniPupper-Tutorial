@@ -47,8 +47,7 @@ https://drive.google.com/drive/folders/1RXu8dGXx3duYmF6jz4DYGml95TujSjsq
 ID: ubuntu / pass: mangdang
 
 - Clone the ROS-TCP-Endpoint repository.
-- (New image (20221013_minipupper_roscon2022_trim.img.xz), not need this.)
-
+- (You use the new image (20221013_minipupper_roscon2022_trim.img.xz), you do not need this cloning and update-alternatives command.)
 
 ```
 sudo apt update
@@ -63,7 +62,6 @@ catkin_make
 # for changing default python version 3
 sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8 0
 ```
-
 
 
 ## 2. PC
